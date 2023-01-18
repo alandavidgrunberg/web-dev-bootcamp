@@ -38,4 +38,4 @@ If you do this for the entire course, I guarantee you will learn how to make dyn
 
 ## Contributing
 
-If you'd like to contribute to this course or e-book, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file to get started!
+If you'd like to contribute to this course or e-book, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file to get started!!
